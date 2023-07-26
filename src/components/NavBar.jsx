@@ -24,6 +24,7 @@ const NavBar = () => {
                         </li>
                     </ul>
                 </div>
+
                 <label className="btn btn-ghost btn-circle avatar">
                     <div className="w-10 rounded-full">
                         <img src="https://www.shutterstock.com/shutterstock/photos/230619400/display_1500/stock-vector-shop-icon-store-230619400.jpg" />
@@ -54,8 +55,6 @@ const NavBar = () => {
                     </div>
                 </label>
             </div>
-
-
         </div>
     );
 };
