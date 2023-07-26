@@ -2,7 +2,6 @@ import Link from 'next/link';
 import React from 'react';
 
 const CategoryNav = () => {
-
   return (
     <>
       <div className=" container mx-auto flex justify-evenly sticky top-0 z-30 mb-3 block">
