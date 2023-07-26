@@ -1,0 +1,17 @@
+[
+    {
+      "username": "User1",
+      "rating": 4,
+      "comment": "Great product! Highly recommended."
+    },
+    {
+      "username": "User2",
+      "rating": 5,
+      "comment": "Excellent quality and fast shipping."
+    },
+    {
+      "username": "User3",
+      "rating": 3,
+      "comment": "Average product. Could be better."
+    }
+  ]
